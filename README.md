@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasnogueira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  
+  <img align="right" alt="nao-se9" src="https://1.bp.blogspot.com/-Zy9fqOW8GFY/XOWeahMi46I/AAAAAAAAcS4/-QsUIa7bGigVsdfXCxCr3Am-r3BGnh49wCLcBGAs/s1600/kawaii-cute-fofo-anime-gif%2B%252817%2529.gif">
   
 </div>
   
