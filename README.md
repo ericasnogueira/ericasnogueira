@@ -5,6 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasnogueira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="nao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="nao-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
+  <img align="center" alt="nao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="nao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="nao-se9" src="https://1.bp.blogspot.com/-Zy9fqOW8GFY/XOWeahMi46I/AAAAAAAAcS4/-QsUIa7bGigVsdfXCxCr3Am-r3BGnh49wCLcBGAs/s1600/kawaii-cute-fofo-anime-gif%2B%252817%2529.gif">
   
 </div>
