@@ -1,9 +1,9 @@
 ## Hello World
  <div>
  <a href="https://github.com/ericasnogueira">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ericasnogueira&show_icons=true&include_all_commits=true&theme=buefy&hide_border=truee"/>
+  <img height="center" src="https://github-readme-stats.vercel.app/api?username=ericasnogueira&show_icons=true&include_all_commits=true&theme=buefy&hide_border=truee"/>
   
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasnogueira&layout=compact&langs_count=7&theme=buefy&hide_border=true"/>
+  <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasnogueira&layout=compact&langs_count=7&theme=buefy&hide_border=true"/>
 </div>
  
 <div style="display: inline_block"><br>
