@@ -23,6 +23,7 @@
 
   <a href = "mailto:ericasnogueira10@gail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erica-silva-nogueira-5704791a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.beecrowd.com.br/judge/pt/profile/707792"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
