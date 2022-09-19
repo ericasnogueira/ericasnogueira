@@ -1,7 +1,7 @@
 ## Hello World
  <div>
  <a href="https://github.com/ericasnogueira">
-  <img height="180a" src="https://github-readme-stats.vercel.app/api?username=ericasnogueira&show_icons=true&include_all_commits=true&theme=buefy"/>
+  <img height="180a" src="https://github-readme-stats.vercel.app/api?username=ericasnogueira&show_icons=true&include_all_commits=false&theme=buefy"/>
 
   
   <img height="180a" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasnogueira&layout=compact&langs_count=7&theme=buefy&hide_border=true"/>
